@@ -1,5 +1,0 @@
-#nextjs
-
-aaaa
-bbbb
-cccc
